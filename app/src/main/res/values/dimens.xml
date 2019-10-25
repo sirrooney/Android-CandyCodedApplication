@@ -2,4 +2,10 @@
 <resources>
     <dimen name="title_size">24sp</dimen>
     <dimen name="activity_padding">16dp</dimen>
+    <dimen name="txt_dim_1">0dp</dimen>
+    <dimen name="txt_dim_2">8dp</dimen>
+    <dimen name="txt_dim_3">16dp</dimen>
+    <dimen name="txt_size">18sp</dimen>
+    <dimen name="txt_dim_4">30dp</dimen>
+    <dimen name="txt_size2">24sp</dimen>
 </resources>

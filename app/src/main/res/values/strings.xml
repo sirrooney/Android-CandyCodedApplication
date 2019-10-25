@@ -3,4 +3,9 @@
     <string name="products_title">Products</string>
     <string name="store_info">Store Info</string>
     <string name="title_activity_maps">Map</string>
+    <string name="string_location">618 E South St Orlando, FL</string>
+    <string name="string_phone_number">(012)345-6789</string>
+    <string name="string_time">Everyday 10am-10pm</string>
+    <string name="textview">TextView</string>
+    <string name="share_candy">Share Candy</string>
 </resources>
