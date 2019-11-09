@@ -12,3 +12,6 @@ public class SettingsActivity extends PreferenceActivity {
         //addPreferencesFromResource();
     }
 }
+
+
+//new commit
