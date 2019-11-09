@@ -28,7 +28,7 @@ public class InfoActivity extends AppCompatActivity {
     // ***
     // TODO - Task 2 - Launch the Google Maps Activity
     // ***
-
+//new commit 2
     public void createMapIntent (View view){
 
         Uri mapUri = Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
